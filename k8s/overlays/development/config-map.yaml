@@ -4,7 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://img.freepik.com/free-photo/cute-ai-generated-cartoon-bunny_23-2150288879.jpg?w=2000"
     ]
 kind: ConfigMap
 metadata:
